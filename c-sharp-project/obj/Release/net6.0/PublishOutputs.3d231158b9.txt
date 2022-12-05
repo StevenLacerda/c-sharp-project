@@ -1,0 +1,13 @@
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/c-sharp-project
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/appsettings.json
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/c-sharp-project.deps.json
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/c-sharp-project.runtimeconfig.json
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/c-sharp-project.pdb
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/Cassandra.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/K4os.Compression.LZ4.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/Newtonsoft.Json.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/System.CodeDom.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/System.Management.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net6.0/publish/runtimes/win/lib/netcoreapp2.0/System.Management.dll

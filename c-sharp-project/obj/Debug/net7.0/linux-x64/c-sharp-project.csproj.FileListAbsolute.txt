@@ -1,0 +1,12 @@
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Debug/net7.0/linux-x64/c-sharp-project.deps.json
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Debug/net7.0/linux-x64/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Debug/net7.0/linux-x64/c-sharp-project.pdb
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.csproj.AssemblyReference.cache
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.AssemblyInfoInputs.cache
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.AssemblyInfo.cs
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.csproj.CoreCompileInputs.cache
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/refint/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/c-sharp-project.pdb
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Debug/net7.0/linux-x64/ref/c-sharp-project.dll

@@ -1,0 +1,12 @@
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net7.0/c-sharp-project.deps.json
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net7.0/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/bin/Release/net7.0/c-sharp-project.pdb
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.csproj.AssemblyReference.cache
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.AssemblyInfoInputs.cache
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.AssemblyInfo.cs
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.csproj.CoreCompileInputs.cache
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/refint/c-sharp-project.dll
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/c-sharp-project.pdb
+/Users/stevelacerda/Projects/c-sharp-project/c-sharp-project/obj/Release/net7.0/ref/c-sharp-project.dll
